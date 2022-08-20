@@ -1,6 +1,6 @@
 ### Saudações. Sejam muito bem vindos ao meu perfil 👋
 
-- 📚 Estou aprendendo Python | JavaScript | HTML5 | CSS3 ...
+- 📚 Estou aprendendo Python | JavaScript | HTML5 | CSS3
 - 📫 Para contato: tassiofernandes881@gmail.com
 
 <div align="center">
@@ -9,7 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Tassiofernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Linguagens e tecnologias mais usadas por mim:
+### 🖥️ Linguagens e tecnologias mais usadas por mim:
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tassio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,3 +18,21 @@
   <img align="center" alt="Tassio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tassio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
+
+  ##
+  
+ ### 🌍 Redes sociais
+  
+  <div>
+    
+    <a href="https://www.instagram.com/26tassio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    
+  </div>
+  
+  <div> 
+  
+  <a href="https://www.instagram.com/26tassio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ 
+</div>
