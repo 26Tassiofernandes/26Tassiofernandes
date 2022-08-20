@@ -1,6 +1,6 @@
 ### Saudações. Sejam muito bem vindos ao meu perfil 👋
 
-- 📚 Estou aprendendo Python | JavaScript | HTML5 | CSS3
+- 📚 Atualmente aprendendo Python | JavaScript | HTML5 | CSS3
 - 📫 Para contato: tassiofernandes881@gmail.com
 
 <div align="center">
