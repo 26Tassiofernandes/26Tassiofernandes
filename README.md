@@ -1,6 +1,6 @@
 ### Saudações. Sejam muito bem vindos ao meu perfil 👋
 
-- 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | Mysql
+- 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
 - 📫 Para contato: tassiofernandes881@gmail.com
 
