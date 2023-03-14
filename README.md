@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Tassiofernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### 🖥️ Linguagens e tecnologias mais usadas por mim:
+### 🖥️ Linguagens, tecnologias e ferramentas:
   ##
 
 <div style="display: inline_block"><br>
