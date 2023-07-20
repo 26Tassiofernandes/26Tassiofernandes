@@ -54,3 +54,4 @@ blue.png" alt="Comprar café" width="150"></a>
   
   ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=26Tassiofernandes&color=00ccff&label=Visitor+Nº:&style=flat-square)
  
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align=center>
