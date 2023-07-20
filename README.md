@@ -49,8 +49,7 @@
   ##
   ## ☕ **_Compre-me um café!_** ☕
   
-  <a href="https://www.buymeacoffee.com/26tassio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-  
-blue.png" alt="Comprar café" width="150"></a>
+  <a href="https://www.buymeacoffee.com/26tassio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
   
   ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=26Tassiofernandes&color=00ccff&label=Visitor+Nº:&style=flat-square)
  
