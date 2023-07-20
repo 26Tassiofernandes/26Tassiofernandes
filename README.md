@@ -51,7 +51,7 @@
   ##
   
   <div>
-  <a href="https://www.buymeacoffee.com/26tassio" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-  
+  <a href="https://www.buymeacoffee.com/26tassio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-  
   blue.png" alt="Comprar café" width="150"></a>
   
   ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=26Tassiofernandes&color=00ccff&label=Visitor+Nº:&style=flat-square)
