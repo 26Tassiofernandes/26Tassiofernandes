@@ -48,7 +48,6 @@
   
   ##
   ## ☕ **_Compre-me um café!_** ☕
-  ##
   
   <div>
   <a href="https://www.buymeacoffee.com/26tassio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-  
