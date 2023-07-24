@@ -1,4 +1,4 @@
-## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 
+## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️
 
 - 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
