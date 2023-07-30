@@ -1,4 +1,4 @@
-## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <iframe src="https://giphy.com/embed/WirhZMBF1AZVK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spiderman-t-rex-WirhZMBF1AZVK">via GIPHY</a></p>
+## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <iframe src="https://giphy.com/embed/WirhZMBF1AZVK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
