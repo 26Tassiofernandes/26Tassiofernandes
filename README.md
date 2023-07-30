@@ -4,7 +4,7 @@
 - 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
 - 📫 Para contato: tassiofernandes881@gmail.com
-
+<br>
 <div align="left">
   <a href="https://github.com/26TassioFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=26Tassiofernandes&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
