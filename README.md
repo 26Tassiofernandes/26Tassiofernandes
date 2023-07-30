@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header"/>
-
 ## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" height= "130" src="https://media.tenor.com/6YsRMw5AztUAAAAC/spider-man-epic-fail.gif"/>
 
 
@@ -58,3 +56,5 @@
   ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=26Tassiofernandes&color=00ccff&label=Visitor+Nº:&style=flat-square)
  
   </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header"/>
