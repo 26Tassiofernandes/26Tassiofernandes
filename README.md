@@ -1,4 +1,4 @@
-## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" src="https://media.tenor.com/jkaTE60JNKsAAAAC/spiderman-angry.gif"
+## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" src="https://media.tenor.com/jkaTE60JNKsAAAAC/spiderman-angry.gif"/>
 
 
 - 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
