@@ -1,4 +1,4 @@
-## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fspiderman-angry-upset-frustrated-gif-14293248&psig=AOvVaw0X8CAPqr40vf4qj3xbWbh_&ust=1690817586426000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDA0L7gtoADFQAAAAAdAAAAABAE" />
 
 - 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
