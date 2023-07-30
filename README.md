@@ -1,4 +1,4 @@
-## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" src="https://giphy.com/embed/WirhZMBF1AZVK" />
+## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" src="https://giphy.com/embed/WirhZMBF1AZVK" width="480" height="270"/>
 
 - 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
