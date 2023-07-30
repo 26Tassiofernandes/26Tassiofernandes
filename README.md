@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header"/>
 
 ## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" height= "130" src="https://media.tenor.com/6YsRMw5AztUAAAAC/spider-man-epic-fail.gif"/>
 
