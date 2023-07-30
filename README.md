@@ -9,7 +9,7 @@
 <div align="left">
   <a href="https://github.com/26TassioFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=26Tassiofernandes&show_icons=false&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Tassiofernandes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Tassiofernandes&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ### 🖥️ Linguagens, tecnologias e ferramentas:
