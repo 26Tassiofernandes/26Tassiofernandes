@@ -1,7 +1,7 @@
 ## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" height= "130" src="https://media.tenor.com/6YsRMw5AztUAAAAC/spider-man-epic-fail.gif"/>
 
 
-- 📚 Atualmente aprendendo JavaScript | Python | HTML5 | CSS3 | MYSQL
+- 📚 Atualmente aprendendo Python | JavaScript | TypeScript | HTML5 | CSS3 | MYSQL
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
 - 📫 Para contato: tassiofernandes881@gmail.com
 <br>
@@ -17,6 +17,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tassio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tassio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Tassio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tassio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tassio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
