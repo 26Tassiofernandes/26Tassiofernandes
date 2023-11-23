@@ -1,4 +1,4 @@
-## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" height= "130" src="https://media.tenor.com/6YsRMw5AztUAAAAC/spider-man-epic-fail.gif"/>
+## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <br> <img align="right" width="150" height= "130" src="https://media.tenor.com/6YsRMw5AztUAAAAC/spider-man-epic-fail.gif"/> 
 
 
 - 📚 Atualmente aprendendo Python | JavaScript | TypeScript | HTML5 | CSS3 | Bootstrap | React | WordPress
