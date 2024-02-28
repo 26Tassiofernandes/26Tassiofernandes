@@ -1,7 +1,7 @@
 ## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" height= "130" src="https://media.tenor.com/6YsRMw5AztUAAAAC/spider-man-epic-fail.gif"/> 
 
 
-- 📚 Atualmente aprendendo Python | Java | JavaScript | HTML5 | CSS3 | Bootstrap | Flask
+- 📚 Atualmente aprendendo Python | Java | PHP | JavaScript | HTML5 | CSS3 | Bootstrap | Flask
 - 🐍 Tenho uma página que te ensina Python, checa só: https://www.instagram.com/importpy_/
 - 📫 Para contato: tassiofernandes881@gmail.com
 <br>
