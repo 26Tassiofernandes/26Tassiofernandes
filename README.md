@@ -25,6 +25,8 @@
 <!--   <img align="center" alt="Tassio-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"> -->
 <!--   <img align="center" alt="Tassio-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
   <img align="center" alt="Tassio-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Tassio-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  
 <!--   <img align="center" alt="Tassio-wordpress" height="40" width="40" src="https://img.icons8.com/fluency/48/wordpress.png"> -->
 <!--   <img align="center" alt="Tassio-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
   <img align="center" alt="TassioMysql" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
