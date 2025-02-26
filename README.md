@@ -1,7 +1,7 @@
 ## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 🕷️ <img align="right" width="150" height= "130" src="https://media.tenor.com/6YsRMw5AztUAAAAC/spider-man-epic-fail.gif"/> 
 
 
-- 📚 Atualmente focado no Desenvolvimento Front-End 
+- 📚 Atualmente focado no Desenvolvimento Front-End, Automação de Processos e Segurança da Informação
 - 📫 Para contato: tassiofernandes881@gmail.com
 <br>
 
