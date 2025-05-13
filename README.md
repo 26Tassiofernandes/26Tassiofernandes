@@ -5,7 +5,7 @@ Tenho um grande interesse pela área de Programação e Desenvolvimento Web. Sou
 👨‍🎓 Bacharelando em Ciência da Computação na **Universidade Federal do Amapá** 
 <br/> 🏢 Estagiário de Desenvolvimento Full Stack no **Tribunal de Justiça do Amapá**
 <br/> 💻 Minha stack: Python, HTML, CSS, JavaScript, React, Next, Bootstrap, Tailwind, SQL, RPA, Web Scraping.
-<br/> 👨‍💻 Conheça um pouco sobre mim no meu Web Portfólio: <a href="https://26tassiofernandes.github.io/porfolio/" target="_blank"></a>
+<br/> 👨‍💻 Conheça um pouco sobre mim no meu Web Portfólio <a href="https://26tassiofernandes.github.io/porfolio/" target="_blank">clicando aqui</a>
 
 💬 Para contato:
  <a href="https://www.linkedin.com/in/tassiofernandes26/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
