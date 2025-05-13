@@ -1,7 +1,6 @@
 ## Olá, meu nome é Tássio e sejam muito bem vindos ao meu perfil 
 
-Tenho um grande interesse pela área de Programação, construção de Softwares e Desenvolvimento Web. 
-Sou um Front-end Developer 🎨
+Tenho um grande interesse pela área de Programação e Desenvolvimento Web. Sou um Front-end Developer 🎨
 
 🏫 Bacharelando em Ciência da Computação na **Universidade Federal do Amapá** 
 <br/> 🏢 Estagiário de Desenvolvimento Full Stack no **Tribunal de Justiça do Amapá**
