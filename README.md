@@ -3,7 +3,7 @@
 Tenho um grande interesse pela área de Programação, construção de Softwares e Desenvolvimento Web. 
 Sou um Front-end Developer 🎨
 
-<br/> 🏫 Bacharelando em Ciência da Computação na **Universidade Federal do Amapá** 
+🏫 Bacharelando em Ciência da Computação na **Universidade Federal do Amapá** 
 <br/> 🏢 Estagiário de Desenvolvimento Full Stack no **Tribunal de Justiça do Amapá**
 <br/> 💻 Minha stack: Python, HTML, CSS, JavaScript, React, Next, Bootstrap, Tailwind, SQL, RPA, Web Scraping.
 <br/> Para contato:
