@@ -5,8 +5,8 @@ Tenho grande interesse pela área de Programação e Desenvolvimento Web, com fo
 Atualmente, sou Desenvolvedor Front-end 🎨
 
 👨‍🎓 Formação
-<br/> • Bacharelando em Ciência da Computação — Universidade Federal do Amapá
-<br/> • Estagiário de Desenvolvimento Full Stack — Tribunal de Justiça do Amapá
+<br/>• Bacharelando em Ciência da Computação — Universidade Federal do Amapá
+<br/>• Estagiário de Desenvolvimento Full Stack — Tribunal de Justiça do Amapá
 
 🛠️ Stack Tecnológica
 Linguagens e Tecnologias:
