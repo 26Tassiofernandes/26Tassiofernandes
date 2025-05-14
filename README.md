@@ -4,6 +4,8 @@ Sejam muito bem-vindos ao meu perfil do GitHub.
 Tenho grande interesse pela área de **Programação** e **Desenvolvimento Web**.  
 Atualmente, sou **Desenvolvedor Front-end** 🎨
 
+---
+
 ### 👨‍🎓 Formação
 • Bacharelando em Ciência da Computação — Universidade Federal do Amapá  
 • Estagiário de Desenvolvimento Full Stack — Tribunal de Justiça do Amapá
