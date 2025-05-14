@@ -32,8 +32,11 @@ RPA · Web Scraping
 
 ---
 
+### ✏️ Atividades
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=26tassiofernandes&layout=compact&theme=radical)
 
+---
 
 ### 🚀 Web Portfólio  
 Conheça um pouco sobre mim no meu Web Portfólio:  
