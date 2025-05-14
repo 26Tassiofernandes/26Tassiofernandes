@@ -1,7 +1,7 @@
 ## Olá, meu nome é Tássio! 👋
 
 Sejam muito bem-vindos ao meu perfil do GitHub.  
-Tenho grande interesse pela área de **Programação** e **Desenvolvimento Web**, com foco no **Front-end**.  
+Tenho grande interesse pela área de **Programação** e **Desenvolvimento Web**.  
 Atualmente, sou **Desenvolvedor Front-end** 🎨
 
 ---
