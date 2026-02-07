@@ -1,14 +1,29 @@
 ## Olá, meu nome é Tássio! 👋
 
-Sejam muito bem-vindos ao meu perfil do GitHub.  
-Tenho grande interesse pela área de **Desenvolvimento Web** e **Web Design**.   
-Atualmente, sou **Web Designer** e **Freelancer**, com foco em criação de sites 🎨
+Seja bem-vindo ao meu perfil do GitHub!  
+Sou Web Designer e Desenvolvedor Front-end Freelancer, com foco na criação de sites modernos, responsivos e funcionais, unindo design, usabilidade e performance 🎨💻
+Tenho grande interesse por Desenvolvimento Web e estou sempre buscando evoluir tanto no visual quanto na experiência do usuário.
+
+---
+
+🎯 O que eu faço
+
+Criação de sites institucionais e landing pages
+
+Interfaces modernas e responsivas (UI)
+
+Foco em experiência do usuário (UX)
+
+Projetos personalizados para negócios e portfólios
 
 ---
 
 ### 👨‍🎓 Formação
-• Bacharelando em Ciência da Computação — Universidade Federal do Amapá  
-• Estagiário de Desenvolvimento Full Stack — Tribunal de Justiça do Amapá
+🎓 Bacharelando em Ciência da Computação
+Universidade Federal do Amapá (UNIFAP)
+
+💼 Estagiário de Desenvolvimento Full Stack
+Tribunal de Justiça do Amapá (TJAP)
 
 ---
 
