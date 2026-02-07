@@ -50,8 +50,8 @@ RPA · Web Scraping
 ---
 
 ### 🚀 Web Portfólio  
-Conheça um pouco sobre mim no meu Web Portfólio:  
-🔗 [Clique aqui para acessar](https://26tassiofernandes.github.io/porfolio/)
+
+Em revitalização...
 
 ---
 
