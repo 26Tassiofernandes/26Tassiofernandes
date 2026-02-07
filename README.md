@@ -10,13 +10,13 @@ Tenho grande interesse por Desenvolvimento Web e estou sempre buscando evoluir t
 
 🎯 O que eu faço
 
-Criação de sites institucionais e landing pages
+• Criação de sites institucionais e landing pages
 
-Interfaces modernas e responsivas (UI)
+• Interfaces modernas e responsivas (UI)
 
-Foco em experiência do usuário (UX)
+• Foco em experiência do usuário (UX)
 
-Projetos personalizados para negócios e portfólios
+• Projetos personalizados para negócios e portfólios
 
 ---
 
