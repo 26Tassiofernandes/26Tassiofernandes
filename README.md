@@ -1,7 +1,8 @@
 ## Olá, meu nome é Tássio! 👋
 
-Seja bem-vindo ao meu perfil do GitHub!  
-Sou Web Designer e Desenvolvedor Front-end Freelancer, com foco na criação de sites modernos, responsivos e funcionais, unindo design, usabilidade e performance 🎨💻
+Seja bem-vindo ao meu perfil do GitHub!
+
+Sou **Web Designer** e **Desenvolvedor Front-end Freelancer**, com foco na criação de sites modernos, responsivos e funcionais, unindo design, usabilidade e performance 🎨💻
 Tenho grande interesse por Desenvolvimento Web e estou sempre buscando evoluir tanto no visual quanto na experiência do usuário.
 
 ---
