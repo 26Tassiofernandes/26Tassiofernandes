@@ -21,11 +21,9 @@ Tenho grande interesse por Desenvolvimento Web e estou sempre buscando evoluir t
 ---
 
 ### 👨‍🎓 Formação
-🎓 Bacharelando em Ciência da Computação
-Universidade Federal do Amapá (UNIFAP)
+🎓 Bacharelando em Ciência da Computação na Universidade Federal do Amapá (UNIFAP)
 
-💼 Estagiário de Desenvolvimento Full Stack
-Tribunal de Justiça do Amapá (2023-2025)
+💼 Estagiário de Desenvolvimento Full Stack no Tribunal de Justiça do Amapá (2023-2025)
 
 ---
 
