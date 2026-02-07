@@ -24,7 +24,7 @@ Projetos personalizados para negócios e portfólios
 Universidade Federal do Amapá (UNIFAP)
 
 💼 Estagiário de Desenvolvimento Full Stack
-Tribunal de Justiça do Amapá (TJAP)
+Tribunal de Justiça do Amapá (2023-2025)
 
 ---
 
